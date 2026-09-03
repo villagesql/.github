@@ -1,0 +1,7 @@
+{
+    "name": "Prow Commands",
+    "description": "Enable Prow-like slash commands and review automation.",
+    "categories": [
+        "Automation"
+    ]
+}

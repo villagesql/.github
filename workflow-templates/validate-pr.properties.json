@@ -1,0 +1,7 @@
+{
+    "name": "Validate PR",
+    "description": "Enforce compliance for PR title and commit title length, run linter.",
+    "categories": [
+        "Automation"
+    ]
+}

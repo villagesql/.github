@@ -1,0 +1,7 @@
+{
+    "name": "CLA Assistant",
+    "description": "Require committers to have signed the CLA.",
+    "categories": [
+        "Automation"
+    ]
+}

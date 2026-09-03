@@ -1,0 +1,7 @@
+{
+    "name": "Merge on LGTM",
+    "description": "Merge approved PRs with LGTM once hourly.",
+    "categories": [
+        "Automation"
+    ]
+}

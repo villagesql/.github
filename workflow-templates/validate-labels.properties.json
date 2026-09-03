@@ -1,0 +1,7 @@
+{
+    "name": "Validate Labels",
+    "description": "Validate area and kind labels, as well as remove LGTM label when new changes are detected.",
+    "categories": [
+        "Automation"
+    ]
+}
