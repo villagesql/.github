@@ -1,0 +1,7 @@
+{
+    "name": "Prow",
+    "description": "Enable Prow-like automation for labeling and PR merge automation.",
+    "categories": [
+        "Automation"
+    ]
+}
