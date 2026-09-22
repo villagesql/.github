@@ -1,3 +1,8 @@
+# Defines the labels and labeling/review rules that the actual action
+# itself (prow.yml) uses and enforces. This prevents us from having
+# to do additional setup each time we deploy the action to a new repo,
+# and from having to update potentially dozens of repos every time we
+# need to add a label or change a review requirement. 
 labels:
   # plain list: labels stack
   area:
@@ -8,7 +13,6 @@ labels:
     - server
     - vef
 
-  # values may carry the GitHub label color (6 hex digits) and description
   kind:
     - bug
     - cleanup
@@ -17,6 +21,8 @@ labels:
     - feature
     - regression
     - test
+    - upstream-mysql
+    - upstream-percona
 
   # mapping: a later /priority replaces any existing priority/* label
   priority:
