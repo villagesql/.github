@@ -53,7 +53,7 @@ require_matching_label:
 tide:
   labels: [lgtm]
   missing_labels: [do-not-merge/*, needs-rebase, hold]
-  merge_method: merge
+  merge_method: squash
   merge_on_events: true
   merge_queue: auto
 
