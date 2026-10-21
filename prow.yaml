@@ -68,6 +68,7 @@ blunderbuss:
   exclude_approvers: true
   ignore_drafts: true
   ignore_authors: ['dependabot[bot]']
+  delay: 1h
 
 # /approve on repositories with OWNERS files; these are the defaults
 approve:
