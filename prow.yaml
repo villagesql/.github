@@ -63,7 +63,7 @@ hold:
 
 # reviewers requested from OWNERS files when a pull request opens
 blunderbuss:
-  request_count: 2
+  request_count: 1
   max_request_count: 4
   exclude_approvers: true
   ignore_drafts: true
