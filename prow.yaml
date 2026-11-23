@@ -75,6 +75,7 @@ approve:
   require_self_approval: false
   ignore_review_state: false
   lgtm_acts_as_approve: false
+  github_review: true
 
 # /lgtm records the reviewed commit as a prow/lgtm commit status; this is the default
 lgtm:
